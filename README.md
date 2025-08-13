@@ -1,8 +1,8 @@
 
 # 🚀 Image Recognition 5 Days Bootcamp
-Deep Learning Colab Status
 
-About This Project
+
+# About This Project
 
 Image Recognition 5 Days Bootcamp is a hands-on, project-based journey into modern computer vision. Built and tested entirely in Google Colab, this bootcamp covers:
 
@@ -16,7 +16,7 @@ Day 4: Transfer learning with MobileNetV2 on Cats vs. Dogs dataset (Kaggle)
 
 Day 5 (suggested): Model evaluation, ROC/AUC, deployment tips
 
-Why This Project?
+# Why This Project?
 
 End-to-End Workflow: From data prep to model evaluation, this repo demonstrates a real-world ML pipeline.
 
@@ -26,7 +26,7 @@ Recruiter Value: Shows experience with TensorFlow, Keras, Colab, Kaggle, GitHub,
 
 Portfolio Showcase: Each notebook cell is annotated for clarity and reproducibility.
 
-How to Run
+# How to Run
 
 Open in Colab:
 Open In Colab
@@ -53,7 +53,7 @@ Model evaluation: confusion matrix, classification report, ROC/AUC
 
 Includes code for saving, loading, and deploying models
 
-Highlights
+# Highlights
 
 Accuracy on MNIST: >99%
 
@@ -63,7 +63,7 @@ Cats vs. Dogs (Transfer Learning): ~88% training accuracy
 
 Visualization: Sample predictions, confusion matrix, ROC curves
 
-Skills Demonstrated
+# Skills Demonstrated
 
 Deep Learning / CNNs
 
@@ -76,7 +76,9 @@ Transfer learning (fine-tuning)
 TensorFlow / Keras
 
 Google Colab & Kaggle integration
+
 Git version control
-Recruiter Note
+
+# Recruiter Note
 This project demonstrates my practical skills in deep learning, my ability to create reproducible ML pipelines, and my experience with industry-standard tools. I'm passionate about building and deploying impactful AI solutions.
 
